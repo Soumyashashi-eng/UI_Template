@@ -1,0 +1,208 @@
+html,
+body {
+  font-family: "Stag Sans Light", sans-serif;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Section */
+header {
+  .container-xxl {
+    background-image: url("../images/header-bg.png");
+    height: 540px;
+    max-height: 100%;
+  }
+
+  .haematology-oncology {
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 3.59px;
+    line-height: 34px;
+    text-align: left;
+  }
+
+  .appointment {
+    background-color: #dd5a6a;
+    border-radius: 3.2px;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 14.4px;
+    line-height: 17px;
+    border: 0;
+    padding: 10px 15px;
+  }
+
+  .enquire-now {
+    color: #213559;
+    font-size: 20.08px;
+    line-height: 24px;
+  }
+
+  .header-left-class {
+    border: 1px solid red;
+    margin-left: 135px;
+  }
+
+  .form-col {
+    background-color: #ffffff;
+    box-shadow: -4px 2px 13px 0 rgba(85, 95, 126, 0.18);
+    width: 339px;
+    margin-left: 50px;
+    .enquire-now {
+      color: #213559;
+      font-family: StagSans;
+      font-size: 20px;
+      line-height: 24px;
+      width: 127px;
+      text-align: left;
+      font-weight: 600;
+    }
+    .form-control {
+      color: #213559;
+      font-family: StagSans;
+      font-size: 12.22px;
+      text-align: left;
+    }
+    .your-msg {
+      line-height: 4.5 !important;
+    }
+    .submit-form {
+      background-color: #dd5a6a;
+      width: 111px;
+      height: 44px;
+    }
+  }
+}
+
+/*main Section*/
+main{
+  .bone-marrow-transplant {
+    color: #FFFFFF;
+    line-height: 26px;
+    width: 545px;
+    text-align: left;
+    background-color: #6078EA;
+    border-radius: 4px;
+  }
+  p {
+    font-size: 15px;
+    line-height: 26px;
+    width: 545px;
+    text-align: left;
+  }
+  .doctors {
+        color: #22b78e;
+        letter-spacing: 1.01px;
+        line-height: 44px;
+        font-weight: 600;
+      }
+  .dr-vijay-agarwal {
+                      color: #1d5aa6;
+                      font-size: 18px;
+                      letter-spacing: 0.76px;
+                      line-height: 26px;
+                      font-weight: 600;
+                    }
+  .md-mrcp-phd {
+    color: #1d5aa6;
+    font-size: 15px;
+    letter-spacing: 1.2px;
+    line-height: 3px;
+    font-weight: 600;
+  }
+    .about-dr-vijay-agarwal {
+    color: #000000;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+  }
+    .bone-marrow-types {
+    color: #22b78e;
+    font-size: 22px;
+    letter-spacing: 1.12px;
+    line-height: 44px;
+    text-align: left;
+    font-weight: 600;
+  }
+    .bone-marrow-child-class {
+    color: #000000;
+    font-size: 14px;
+    line-height: 39px;
+    width: 1068px;
+    text-align: left;
+  }
+    .failure-to-thrive {
+    color: #000000;
+    font-size: 14px;
+    line-height: 21px;
+    width: 198px;
+    text-align: left;
+  }
+  .accordion-button:not(.collapsed) {
+    color: #0c63e4;
+    background-color: #FFFFFF;
+  }
+  .accordion-button::after {
+    background-image: url("../images/dropdownIcon.png") !important;
+  }
+    .accordion-children {
+    color: #1d5aa6;
+    font-size: 18px;
+    letter-spacing: 0.6px;
+    line-height: 22px;
+    text-align: left;
+    font-weight: 600;
+  }
+    .testimonials {
+    color: #000000;
+    font-size: 15px;
+    line-height: 21px;
+    text-align: left;
+  }
+    .testimonial-job {
+    font-size: 13px !important;
+  }
+    .testimoial-desc {
+    color: #000000;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 21px;
+    width: 410px;
+    text-align: left;
+  }
+    .appointment-cls {
+    background-color: #004498;
+    border-radius: 3.81px;
+    width: 220px;
+    height: 50px;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 17.14px;
+    line-height: 21px;
+  }
+}
+  
+
+footer {
+  .list-group {
+    display: inline-block;
+  }
+
+  .aster-cmi-all-right {
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 1.12px;
+    line-height: 17px;
+    text-align: center;
+  }
+  .btn-class {
+    background-color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    
+  }
+}
+
+
